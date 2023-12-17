@@ -23,9 +23,9 @@ You have to :
 
  ---  mail_send("", "", log_msg)  ----
 
-- enter your address instead of 1
+- enter your address instead of first ""
 
-- enter your password instead of 2
+- enter your password instead of second ""
 
 - It is set to send mails to the mail you give (that means you send logs to yourself with your account)
   
