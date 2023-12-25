@@ -15,10 +15,11 @@ automatically run keylogger.pyw (without a terminal) so victim won't realize
 
 ## Getting log file 
 
-Server Name 	SMTP Server 	        SMTP Port
-GMAIL 	        smtp.gmail.com 	        587
-OUTLOOK 	    smtp-mail.outlook.com 	587
-YAHOO 	        smtp.mail.yahoo.com 	587
+| Server Name |  SMTP Server 	        | SMTP Port  |
+| ----------- |  ---------------------  | ---------  |
+| GMAIL 	  |  smtp.gmail.com 	    |  587       | 
+| OUTLOOK 	  |  smtp-mail.outlook.com  |  587       | 
+| YAHOO 	  |  smtp.mail.yahoo.com 	|  587       | 
 
 
 You have to :
