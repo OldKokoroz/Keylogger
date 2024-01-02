@@ -27,7 +27,7 @@ You have to :
 
 - open a new gmail account
 
-         mail_send(your-email@gmail.com, your-passwd, log_msg)  ---- Do not touch log_msg
+         mail_send("your-email@gmail.com", "your-passwd", log_msg)  ---- Do not touch log_msg
 
 - enter your address instead of first ""
 
