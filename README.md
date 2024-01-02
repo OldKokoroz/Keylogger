@@ -3,7 +3,8 @@
 ## Install 
 
     git clone https://github.com/OldKokoroz/Keylogger.git
-
+    pip install pynput
+    
 
 ## Setup
 
