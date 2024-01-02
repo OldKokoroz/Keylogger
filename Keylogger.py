@@ -3,10 +3,6 @@ import smtplib
 import time
 import threading
 from time import localtime, strftime
-from Logo import logo
-
-
-print(logo)
 
 
 log = ""
